@@ -19,12 +19,6 @@ nothing here is meant to be perfect.
 
 ---
 
-## 🌿 branches
-
-each branch represents a different learning journey.
-
----
-
 ## ⚙️ how i use this repo
 
 * one topic = one branch
@@ -34,13 +28,25 @@ each branch represents a different learning journey.
 
 ---
 
+## 🌿 branches
+
+each branch represents a different learning journey.
+
+---
+
 ## 🚧 status
 
 always in progress.
 
 ---
 
-## 🧑‍💻 note to self
+## 🧑‍💻 author
+
+**Daniel Sipangkar**
+
+---
+
+## 🧠 note to self
 
 > you don’t need to be great to start,
 > but you need to start to be great.
