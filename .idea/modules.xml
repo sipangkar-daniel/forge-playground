@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/belajar-typescript-dasar.iml" filepath="$PROJECT_DIR$/.idea/belajar-typescript-dasar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dicoding/pemrograman-web-pemula/.idea/pemrograman-web-pemula.iml" filepath="$PROJECT_DIR$/dicoding/pemrograman-web-pemula/.idea/pemrograman-web-pemula.iml" />
     </modules>
   </component>
 </project>
